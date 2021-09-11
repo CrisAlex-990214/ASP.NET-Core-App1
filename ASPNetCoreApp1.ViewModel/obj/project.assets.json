@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CrisAlex\\Downloads\\ASPNetCoreApp1\\ASPNetCoreApp1.ViewModel\\ASPNetCoreApp1.csproj",
+      "projectUniqueName": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.ViewModel\\ASPNetCoreApp1.csproj",
       "projectName": "ASPNetCoreApp1",
-      "projectPath": "C:\\Users\\CrisAlex\\Downloads\\ASPNetCoreApp1\\ASPNetCoreApp1.ViewModel\\ASPNetCoreApp1.csproj",
+      "projectPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.ViewModel\\ASPNetCoreApp1.csproj",
       "packagesPath": "C:\\Users\\CrisAlex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CrisAlex\\Downloads\\ASPNetCoreApp1\\ASPNetCoreApp1.ViewModel\\obj\\",
+      "outputPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CrisAlex\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\CrisAlex\\Downloads\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\ASPNetCoreApp1.Data.csproj": {
-              "projectPath": "C:\\Users\\CrisAlex\\Downloads\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\ASPNetCoreApp1.Data.csproj"
+            "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\ASPNetCoreApp1.Data.csproj": {
+              "projectPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\ASPNetCoreApp1.Data.csproj"
             }
           }
         }
