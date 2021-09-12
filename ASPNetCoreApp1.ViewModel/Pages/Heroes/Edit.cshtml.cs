@@ -1,12 +1,11 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using ASPNetCore1.Data;
+using ASPNetCoreApp1.Core;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using Type = ASPNetCore1.Data.Type;
+using Type = ASPNetCoreApp1.Core.Type;
 
 namespace ASPNetCoreApp1.Pages.Heroes
 {

@@ -1,0 +1,10 @@
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\bin\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.deps.json
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\bin\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.dll
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\bin\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.pdb
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.csproj.AssemblyReference.cache
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.AssemblyInfoInputs.cache
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.AssemblyInfo.cs
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.csproj.CoreCompileInputs.cache
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.dll
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.Core\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.pdb

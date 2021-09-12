@@ -1,4 +1,5 @@
 using ASPNetCore1.Data;
+using ASPNetCoreApp1.Core;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 

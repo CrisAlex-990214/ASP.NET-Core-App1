@@ -322,7 +322,18 @@
           "ASPNetCoreApp1.dll": {}
         }
       },
+      "ASPNetCoreApp1.Core/1.0.0": {
+        "runtime": {
+          "ASPNetCoreApp1.Core.dll": {}
+        },
+        "compile": {
+          "ASPNetCoreApp1.Core.dll": {}
+        }
+      },
       "ASPNetCoreApp1.Data/1.0.0": {
+        "dependencies": {
+          "ASPNetCoreApp1.Core": "1.0.0"
+        },
         "runtime": {
           "ASPNetCoreApp1.Data.dll": {}
         },
@@ -2026,6 +2037,11 @@
   },
   "libraries": {
     "ASPNetCoreApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ASPNetCoreApp1.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

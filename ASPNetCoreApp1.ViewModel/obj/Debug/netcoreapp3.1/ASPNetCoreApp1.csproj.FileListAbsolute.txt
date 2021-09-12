@@ -86,3 +86,5 @@ C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.ViewModel\obj\D
 C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.ViewModel\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.dll
 C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.ViewModel\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.pdb
 C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.ViewModel\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.genruntimeconfig.cache
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.ViewModel\bin\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.dll
+C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1.ViewModel\bin\Debug\netcoreapp3.1\ASPNetCoreApp1.Core.pdb
