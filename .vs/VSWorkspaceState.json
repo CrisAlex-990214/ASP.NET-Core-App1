@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ASPNetCoreApp1.Data\\bin",
+    "\\ASPNetCoreApp1.Data\\bin\\Release",
+    "\\ASPNetCoreApp1.Data\\bin\\Release\\netcoreapp3.1",
+    "\\ASPNetCoreApp1.ViewModel",
+    "\\ASPNetCoreApp1.ViewModel\\bin",
+    "\\ASPNetCoreApp1.ViewModel\\bin\\Release",
+    "\\ASPNetCoreApp1.ViewModel\\bin\\Release\\netcoreapp3.1",
+    "\\ASPNetCoreApp1.ViewModel\\Pages",
+    "\\ASPNetCoreApp1.ViewModel\\Pages\\Heroes"
+  ],
+  "SelectedNode": "\\ASPNetCoreApp1.ViewModel\\Pages\\Heroes\\List.cshtml",
+  "PreviewInSolutionExplorer": false
+}

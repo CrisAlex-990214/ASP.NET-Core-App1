@@ -1,7 +1,8 @@
-﻿using System;
+﻿using ASPNetCoreApp1.Core;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using Type = ASPNetCoreApp1.Core.Type;
 
 namespace ASPNetCore1.Data
 {
@@ -12,21 +13,6 @@ namespace ASPNetCore1.Data
         Hero Add(Hero hero);
         void Update(Hero hero);
         int Commit();
-    }
-    public class Hero
-    {
-        public int Id { get; set; }
-        
-        [Required, StringLength(30)]
-        public string Name { get; set; }
-        [Required]
-        public Type Type { get; set; }
-        [Required]
-        public DateTime CreationDate { get; set; }
-    }
-    public enum Type
-    {
-        DC, Marvel, StarWars
     }
 
     public class HeroRepository : IHeroData

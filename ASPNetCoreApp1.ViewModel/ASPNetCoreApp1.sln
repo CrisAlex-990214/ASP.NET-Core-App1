@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNetCoreApp1", "ASPNetCor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNetCoreApp1.Data", "..\ASPNetCoreApp1.Data\ASPNetCoreApp1.Data.csproj", "{1C88CB0F-C09A-4041-8A35-64ED37C5FB53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreApp1.Core", "..\ASPNetCoreApp1.Core\ASPNetCoreApp1.Core.csproj", "{E6C49D10-6803-4383-A017-A841DEE218A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1C88CB0F-C09A-4041-8A35-64ED37C5FB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C88CB0F-C09A-4041-8A35-64ED37C5FB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C88CB0F-C09A-4041-8A35-64ED37C5FB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C49D10-6803-4383-A017-A841DEE218A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C49D10-6803-4383-A017-A841DEE218A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C49D10-6803-4383-A017-A841DEE218A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C49D10-6803-4383-A017-A841DEE218A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

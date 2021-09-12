@@ -2,9 +2,22 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "ASPNetCoreApp1.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ASPNetCoreApp1.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASPNetCoreApp1.Core.dll": {}
+        }
+      },
       "ASPNetCoreApp1.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ASPNetCoreApp1.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ASPNetCoreApp1.Data.dll": {}
         },
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "ASPNetCoreApp1.Core/1.0.0": {
+      "type": "project",
+      "path": "../ASPNetCoreApp1.Core/ASPNetCoreApp1.Core.csproj",
+      "msbuildProject": "../ASPNetCoreApp1.Core/ASPNetCoreApp1.Core.csproj"
+    },
     "ASPNetCoreApp1.Data/1.0.0": {
       "type": "project",
       "path": "../ASPNetCoreApp1.Data/ASPNetCoreApp1.Data.csproj",
