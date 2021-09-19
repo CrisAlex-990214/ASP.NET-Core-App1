@@ -17,4 +17,4 @@ An ASP.NET Core app based on the ASP.NET Core Fundamentals course at Pluralsight
 - View Components
 - Static files
 - Middleware
-- Publish on IIS 
+- IIS to publish
