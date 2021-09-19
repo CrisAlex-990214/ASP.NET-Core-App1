@@ -364,5 +364,3 @@ C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1\obj\Debug\netco
 C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.dll
 C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.pdb
 C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1\obj\Debug\netcoreapp3.1\ASPNetCoreApp1.genruntimeconfig.cache
-C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1\bin\Debug\netcoreapp3.1\package-lock.json
-C:\Users\CrisAlex\Downloads\GitHub\ASPNetCoreApp1\ASPNetCoreApp1\bin\Debug\netcoreapp3.1\package.json
