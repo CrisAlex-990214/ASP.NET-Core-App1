@@ -1,15 +1,20 @@
 # ASP.NETCore-App-V1
-An ASP.NET Core app using the following topics:
+An ASP.NET Core app based on the ASP.NET Core Fundamentals course at Pluralsight working with:
 
-- Scaffolding tool: dotnet-aspnet-codegenerator
-- Access appSettings properties
-- Add and edit razor pages
-- Build page models
+- Razor pages
+- Page models
 - Dependency injection
 - Forms
 - Tag helpers
 - Page routing
 - GET-POST methods
 - TempData
-- DataAnnotations and modelState
-
+- DataAnnotations and ModelState
+- AppSettings configuration
+- EF Core (Migrations) 
+- Dotnet CLI
+- Partial views
+- View Components
+- Static files
+- Middleware
+- Publish on IIS 
