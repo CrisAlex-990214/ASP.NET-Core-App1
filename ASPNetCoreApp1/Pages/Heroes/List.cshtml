@@ -1,0 +1,37 @@
+@page
+@model ASPNetCoreApp1.Pages.Heroes.ListModel
+@{
+}
+
+<h1> @Model.Title </h1>
+@if (Model.Message != null)
+{
+    <div class="alert alert-info">@Model.Message</div> 
+}
+
+<form  method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" 
+                   asp-for="SearchTerm"/>
+            <span class="input-group-btn">
+                <button class="btn btn-danger">
+                    <i class="carousel-control-next-icon"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    @foreach (var hero in Model.Heroes)
+    {
+        <partial name="_Summary" model="hero"/>
+    }
+</table>
+
+<a class="btn btn-dark" asp-page="./Edit"> Add Hero </a>
+
+@section footer{ 
+    <div> Hero App </div>
+}

@@ -6,15 +6,6 @@ using Type = ASPNetCoreApp1.Core.Type;
 
 namespace ASPNetCore1.Data
 {
-    public interface IHeroData
-    {
-        IEnumerable<Hero> GetHeroes(string name);
-        Hero GetById(int id);
-        Hero Add(Hero hero);
-        void Update(Hero hero);
-        int Commit();
-    }
-
     public class HeroRepository : IHeroData
     {
         private readonly List<Hero> Heroes;
@@ -65,6 +56,23 @@ namespace ASPNetCore1.Data
         public int Commit()
         {
             return 0;
+        }
+
+        public Hero Delete(int id)
+        {
+            var hero = Heroes.SingleOrDefault(x => x.Id == id);
+
+            if(hero != null)
+            {
+                Heroes.Remove(hero);
+            }
+
+            return hero;
+        }
+
+        public int GetCountOfHeroes()
+        {
+            return Heroes.Count();
         }
     }
 

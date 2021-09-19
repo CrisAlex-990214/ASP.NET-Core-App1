@@ -1,0 +1,20 @@
+﻿@page
+@model ASPNetCoreApp1.Pages.Heroes.ClientHeroModel
+@{
+}
+
+<h2> Client Heroes</h2>
+
+
+@section Scripts {
+
+    <script>
+        $(function () {
+            $.ajax("/api/heroes/",
+                { method: "get" })
+                .then(function (response) {
+                    console.dir(response);
+                });
+        });
+    </script>
+}

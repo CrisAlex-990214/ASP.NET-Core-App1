@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ASPNetCoreApp1",
+    "\\ASPNetCoreApp1.Data",
     "\\ASPNetCoreApp1.Data\\bin",
     "\\ASPNetCoreApp1.Data\\bin\\Release",
     "\\ASPNetCoreApp1.Data\\bin\\Release\\netcoreapp3.1",
-    "\\ASPNetCoreApp1.ViewModel",
-    "\\ASPNetCoreApp1.ViewModel\\bin",
-    "\\ASPNetCoreApp1.ViewModel\\bin\\Release",
-    "\\ASPNetCoreApp1.ViewModel\\bin\\Release\\netcoreapp3.1",
-    "\\ASPNetCoreApp1.ViewModel\\Pages",
-    "\\ASPNetCoreApp1.ViewModel\\Pages\\Heroes"
+    "\\ASPNetCoreApp1\\Pages",
+    "\\ASPNetCoreApp1\\Pages\\Heroes"
   ],
-  "SelectedNode": "\\ASPNetCoreApp1.ViewModel\\Pages\\Heroes\\List.cshtml",
+  "SelectedNode": "\\ASPNetCoreApp1\\Pages\\Heroes\\ClientHero.cshtml",
   "PreviewInSolutionExplorer": false
 }

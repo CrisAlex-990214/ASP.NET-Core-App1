@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1\\ASPNetCoreApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Core\\ASPNetCoreApp1.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Core\\ASPNetCoreApp1.Core.csproj",
+        "projectName": "ASPNetCoreApp1.Core",
+        "projectPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Core\\ASPNetCoreApp1.Core.csproj",
+        "packagesPath": "C:\\Users\\CrisAlex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CrisAlex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\ASPNetCoreApp1.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\ASPNetCoreApp1.Data.csproj",
+        "projectName": "ASPNetCoreApp1.Data",
+        "projectPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\ASPNetCoreApp1.Data.csproj",
+        "packagesPath": "C:\\Users\\CrisAlex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CrisAlex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Core\\ASPNetCoreApp1.Core.csproj": {
+                "projectPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Core\\ASPNetCoreApp1.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1\\ASPNetCoreApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1\\ASPNetCoreApp1.csproj",
+        "projectName": "ASPNetCoreApp1",
+        "projectPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1\\ASPNetCoreApp1.csproj",
+        "packagesPath": "C:\\Users\\CrisAlex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CrisAlex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\ASPNetCoreApp1.Data.csproj": {
+                "projectPath": "C:\\Users\\CrisAlex\\Downloads\\GitHub\\ASPNetCoreApp1\\ASPNetCoreApp1.Data\\ASPNetCoreApp1.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.19, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
